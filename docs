@@ -1,0 +1,5 @@
+This section discusses how to activate the Mobile Check-In and Check-Out.
+□	Turn on online check in
+□	CALL HILOADC - Option 35 Online Setup
+□	Set 'Allow Online check' in flag to Y
+□	Update the Current day check in allowed time.
